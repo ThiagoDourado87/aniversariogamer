@@ -1,0 +1,2 @@
+const e=new Date("2024-06-15");setInterval(function(){let t=new Date().getTime(),n=e-t;document.getElementById("days").innerHTML=Math.floor(n/864e5),document.getElementById("hours").innerHTML=Math.floor(n%864e5/36e5),document.getElementById("minutes").innerHTML=Math.floor(n%36e5/6e4),document.getElementById("seconds").innerHTML=Math.floor(n%6e4/1e3)},1e3);
+//# sourceMappingURL=index.ee810c89.js.map

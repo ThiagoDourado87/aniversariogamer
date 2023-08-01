@@ -1,5 +1,5 @@
-7034
-75D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\dist133353195146832250 1
+7046
+75D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\dist133353250457953691 1
 119D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\stylehacks\src\plugins\important.js133353222318245709 0
 111D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\supports-color\package.json133353239855233370 0
 160D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\TypeSelector.js133353239884654529 0
@@ -23,7 +23,7 @@
 113D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss-svgo\src\globals.d.ts133353222317294523 0
 104D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss\lib\parse.js133353222323899198 0
 128D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\css-tree\cjs\syntax\node\GeneralEnclosed.cjs133353222328164458 0
-83D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\package.json133353243364343959 0
+83D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\package.json133353250264004515 0
 119D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\css-tree\cjs\syntax\scope\value.cjs133353222331524462 0
 102D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\.package-lock.json133353239907630428 0
 113D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\css-tree\cjs\lexer\search.cjs133353222330904450 0
@@ -75,7 +75,7 @@
 113D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\colord\plugins\harmonies.d.ts133353222326774592 0
 96D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\svgo\LICENSE133353222313554539 0
 159D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\htmlparser2\node_modules\dom-serializer\node_modules\entities\lib\decode.js133353239854553357 0
-74D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\src133353192966663974 1
+74D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\src133353249015729816 1
 128D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\caniuse-lite\data\features\variable-fonts.js133353222346064458 0
 118D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\utility-types\dist\mapped-types.js133353239856723371 0
 92D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\svgo\lib133353222330614436 1
@@ -100,25 +100,19 @@
 150D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\Atrule.js133353239862454462 0
 118D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\msgpackr-extract\node_modules\.bin133353239891524517 1
 96D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\caniuse-lite133353222346974462 1
-100D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\parcel\README.md133353239860576723 0
-91D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\globals133353239858263368 1
-128D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@swc\helpers\_\_async_generator\package.json133353239887454571 0
-110D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\utility-types\package.json133353239858934186 0
-128D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\csso\node_modules\mdn-data\css\at-rules.json133353222317174548 0
-108D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss-unique-selectors133353222315747118 1
-115D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\caniuse-lite\data\regions\PA.js133353222343004467 0
-108D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\escalade\sync\index.d.ts133353222317834543 0
-87D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\src\countdown.js133353193461700607 0
-107D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss\lib\document.js133353222317174548 0
-111D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\domutils\lib\helpers.js.map133353222325874659 0
-110D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss-ordered-values\src133353222322246235 1
 132D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\lmdb\node_modules\node-addon-api\tools\README.md133353239866822930 0
 109D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\css-tree\cjs\syntax\scope133353222331504454 1
 144D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\jsAPI.d.ts133353239880057129 0
 109D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\transformer-babel133353239866602917 1
-85D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\src\index.html133353215655956438 0
+85D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\src\index.html133353249119604733 0
 138D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-svgo\node_modules\domhandler\LICENSE133353239852664536 0
 107D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\supports-color\index.js133353239854193357 0
+125D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-swc\lib\SwcOptimizer.js133353239853579266 0
+118D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss-merge-longhand\LICENSE-MIT133353222314054540 0
+106D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\parent-module\index.js133353239853081927 0
+108D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\colord\plugins\cmyk.d.ts133353222326654566 0
+84D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\src\script.js133353193461700607 0
+111D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\regenerator-runtime\LICENSE133353239852304539 0
 92D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\argparse133353239860686717 1
 85D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\src\styles.css133353218406306393 0
 113D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\css-tree\cjs\parser\index.cjs133353222329294446 0
@@ -343,6 +337,12 @@
 125D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-image\lib\loadNative.js133353239854643368 0
 140D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest.c133353239878487137 0
 94D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\fill-range133353239854943370 1
+100D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\parcel\README.md133353239860576723 0
+91D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\globals133353239858263368 1
+128D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@swc\helpers\_\_async_generator\package.json133353239887454571 0
+110D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\utility-types\package.json133353239858934186 0
+128D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\csso\node_modules\mdn-data\css\at-rules.json133353222317174548 0
+108D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss-unique-selectors133353222315747118 1
 103D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\parcel\package.json133353239859733284 0
 92D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\htmlnano133353239879247149 1
 141D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\react-refresh\cjs\react-refresh-runtime.production.min.js133353239858684467 0
@@ -358,7 +358,7 @@
 128D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@swc\helpers\_\_define_enumerable_properties133353239888204530 1
 96D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\import-fresh133353239856083359 1
 112D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\utils\src\urlJoin.js133353239879357137 0
-116D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\lmdb\dependencies\lmdb\libraries133353239855603367 1
+116D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\lmdb\dependencies\lmdb\libraries133353239855863353 1
 155D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.ps1133353239891504520 0
 127D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\caniuse-lite\data\features\vector-effect.js133353222346124456 0
 95D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\is-arrayish133353239859234508 1
@@ -766,6 +766,7 @@
 116D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\nth-check\lib\esm\compile.js.map133353222323534510 0
 115D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\update-browserslist-db\index.js133353222315414524 0
 106D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\type-fest\package.json133353239853151911 0
+93D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\dist\index.44983732.js133353250364333768 0
 101D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\json5\lib\util.js133353239862424440 0
 110D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss\lib\processor.d.ts133353222328874479 0
 90D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\stable133353239856033347 1
@@ -1430,7 +1431,7 @@
 114D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\core\src\AssetGraph.js133353239871037127 0
 98D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\stylehacks\src133353222323784562 1
 121D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\caniuse-lite\data\features\imports.js133353222340084445 0
-131D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\core\test\fixtures\plugins\node_modules133353239880037140 1
+131D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\core\test\fixtures\plugins\node_modules133353239880167144 1
 141D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest3.c133353239878807123 0
 100D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\stylehacks\types133353222325414458 1
 111D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\stylehacks\types\dictionary133353222325714519 1
@@ -1513,7 +1514,7 @@
 160D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupNumericValues.js133353239863464452 0
 127D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\stylehacks\src\plugins\mediaSlash0Slash9.js133353222323724568 0
 165D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\htmlparser2\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts.map133353239863145155 0
-114D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\lmdb\dependencies\lmdb-data-v1133353239851984553 1
+114D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\lmdb\dependencies\lmdb-data-v1133353239852384535 1
 121D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\stylehacks\src\plugins\mediaSlash9.js133353222323744592 0
 115D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\caniuse-lite\data\regions\ST.js133353222344904441 0
 116D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\stylehacks\src\plugins\slash9.js133353222324009198 0
@@ -1718,11 +1719,6 @@
 105D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\resolve-from\index.js133353239853081927 0
 99D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\json5\README.md133353239863524475 0
 104D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\resolve-from\license133353239854133364 0
-125D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-swc\lib\SwcOptimizer.js133353239853579266 0
-118D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss-merge-longhand\LICENSE-MIT133353222314054540 0
-106D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\parent-module\index.js133353239853081927 0
-108D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\colord\plugins\cmyk.d.ts133353222326654566 0
-111D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\regenerator-runtime\LICENSE133353239852304539 0
 84D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\dist\index.js133353207884754411 0
 111D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\regenerator-runtime\path.js133353239853151911 0
 134D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\csso\node_modules\css-tree\cjs\tokenizer\index.cjs133353222329214439 0
@@ -1857,7 +1853,7 @@
 136D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-htmlnano\node_modules\domutils\lib133353239870507136 1
 103D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\nanoid\url-alphabet133353222324009198 1
 125D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss-unique-selectors\types\index.d.ts133353222316504504 0
-124D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\lmdb\dependencies\lmdb-data-v1\libraries133353239852384535 1
+124D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\lmdb\dependencies\lmdb-data-v1\libraries133353239852774544 1
 121D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss-unique-selectors\src\index.js133353222314234535 0
 145D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-htmlnano\node_modules\domutils\lib\index.js133353239856083359 0
 112D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\nanoid\url-alphabet\index.js133353222323604323 0
@@ -2005,6 +2001,11 @@
 153D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Block.js133353239861854299 0
 107D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-image133353239884064533 1
 118D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss-ordered-values\LICENSE-MIT133353222313694557 0
+115D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\caniuse-lite\data\regions\PA.js133353222343004467 0
+108D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\escalade\sync\index.d.ts133353222317834543 0
+107D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss\lib\document.js133353222317174548 0
+111D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\domutils\lib\helpers.js.map133353222325874659 0
+110D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss-ordered-values\src133353222322246235 1
 112D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss-ordered-values\types133353222324824540 1
 119D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\node-addon-api\package-support.json133353239865074762 0
 123D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss-ordered-values\types\index.d.ts133353222324850769 0
@@ -2153,7 +2154,7 @@
 126D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss-normalize-display-values\README.md133353222316524515 0
 127D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\css-tree\lib\syntax\node\NestingSelector.js133353222333584452 0
 137D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\caniuse-lite\data\features\css-backgroundblendmode.js133353222332354450 0
-106D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\lmdb\dependencies\lmdb133353239855323352 1
+106D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\lmdb\dependencies\lmdb133353239855603367 1
 120D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss-normalize-display-values\src133353222314424538 1
 125D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\csso\lib\restructure\8-restructRuleset.js133353222328574449 0
 115D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\caniuse-lite\data\regions\BG.js133353222330314428 0
@@ -2253,6 +2254,7 @@
 115D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\caniuse-lite\data\regions\CH.js133353222331444446 0
 119D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss-merge-longhand\package.json133353222324933640 0
 106D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\js-yaml\lib\snippet.js133353239871707133 0
+97D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\dist\index.3506b79c.js.map133353248094340762 0
 140D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@swc\helpers\_\_check_private_redeclaration\package.json133353239887564556 0
 129D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp133353239853171966 0
 110D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss-merge-longhand\src133353222323644308 1
@@ -2354,7 +2356,7 @@
 119D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss-convert-values\package.json133353222317384558 0
 109D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\dotenv\lib\cli-options.js133353239858315577 0
 106D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\color-convert\route.js133353239858974292 0
-124D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\source-map\parcel_sourcemap_wasm133353239862173774 1
+124D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\source-map\parcel_sourcemap_wasm133353239862982203 1
 116D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss-convert-values\README.md133353222317994445 0
 104D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\postcss-calc\LICENSE133353222314324570 0
 106D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\diagnostic\src133353239854543351 1
@@ -2495,6 +2497,7 @@
 107D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\picocolors\package.json133353222315434539 0
 111D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\entities\lib\index.d.ts.map133353222328614459 0
 116D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\picocolors\picocolors.browser.js133353222314004551 0
+97D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\dist\index.44983732.js.map133353250364353748 0
 111D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\lmdb\src\ordered-binary.cpp133353239883274691 0
 110D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\picocolors\picocolors.d.ts133353222316504504 0
 104D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\path-type\index.d.ts133353239853101949 0
@@ -2690,7 +2693,7 @@
 109D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\nanoid\async\package.json133353222323784562 0
 119D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@lmdb\lmdb-win32-x64\node.napi.node133353239866732928 0
 104D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\msgpackr-extract\bin133353239855543353 1
-112D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\htmlnano\docs\versioned_docs133353239876697141 1
+112D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\htmlnano\docs\versioned_docs133353239877007126 1
 130D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\htmlparser2\node_modules\entities\lib\index.js133353239861466303 0
 144D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\csso\node_modules\css-tree\lib\syntax\node\MediaQueryList.js133353222333424442 0
 112D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\msgpackr-extract\binding.gyp133353239854393347 0
@@ -2738,6 +2741,7 @@
 135D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.1133353239870777121 0
 109D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\msgpackr\rollup.config.js133353239865813548 0
 104D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\json5\dist\index.mjs133353239864784663 0
+94D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\dist\index.4d663569.css133353250364193742 0
 123D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\caniuse-lite\data\features\audio-api.js133353222328614459 0
 102D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\msgpackr\struct.js133353239866562913 0
 102D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\escalade\readme.md133353222316344483 0
@@ -3649,7 +3653,7 @@
 115D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\caniuse-lite\data\regions\PW.js133353222343834437 0
 118D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\namer-default\package.json133353239855933349 0
 158D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope\value.js133353239884794520 0
-142D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules133353239859923285 1
+142D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules133353239862095463 1
 108D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\css-tree\dist\csstree.js133353222332394453 0
 92D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\csso\cjs133353222327554454 1
 126D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\css-tree\lib\tokenizer\OffsetToLocation.js133353222333644453 0
@@ -3679,7 +3683,7 @@
 123D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\csso\node_modules\mdn-data\package.json133353222323919204 0
 130D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\csso\node_modules\css-tree\cjs\lexer\error.cjs133353222327094464 0
 120D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\csso\node_modules\mdn-data\README.md133353222327904442 0
-98D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@swc\helpers\_133353239888864532 1
+98D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@swc\helpers\_133353239888874548 1
 131D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\csso\node_modules\mdn-data\css\definitions.json133353222323554208 0
 120D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\package-manager\src\utils.js133353239872127138 0
 137D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\csso\node_modules\mdn-data\css\properties.schema.json133353222325874659 0
@@ -4524,8 +4528,10 @@
 154D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\common\SyntaxError.js133353239884394533 0
 112D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\workers\lib\index.js133353239864854663 0
 116D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\cosmiconfig\dist\readFile.js.map133353239872307137 0
+94D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\dist\index.249d9a3f.css133353250457893698 0
 156D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\import.js133353239878127143 0
 111D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\cosmiconfig\dist\types.d.ts133353239875207133 0
+98D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\dist\index.249d9a3f.css.map133353250457943691 0
 145D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\types.d.ts133353239873727145 0
 138D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\README.md133353239871957139 0
 115D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\cosmiconfig\dist\types.d.ts.map133353239872507142 0
@@ -5357,7 +5363,7 @@
 163D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\common\OffsetToLocation.js133353239880647132 0
 142D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@swc\helpers\_\_class_private_field_loose_key\package.json133353239887724564 0
 137D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@swc\helpers\_\_class_private_field_init\package.json133353239887704545 0
-119D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-svgo\node_modules133353239841964532 1
+119D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-svgo\node_modules133353239891434558 1
 133D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@swc\helpers\_\_class_name_tdz_error\package.json133353239887664520 0
 143D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@swc\helpers\_\_class_extract_field_descriptor\package.json133353239887654555 0
 156D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@swc\helpers\_\_class_check_private_static_field_descriptor\package.json133353239887644544 0
@@ -5549,7 +5555,7 @@
 121D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@swc\helpers\esm\_class_call_check.js133353239884074541 0
 148D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@swc\helpers\esm\_class_check_private_static_field_descriptor.js133353239884174530 0
 135D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@swc\helpers\esm\_class_extract_field_descriptor.js133353239884214531 0
-147D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules133353239883354683 1
+147D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules133353239883399141 1
 135D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@swc\helpers\esm\_class_private_field_loose_base.js133353239884484555 0
 128D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@swc\helpers\esm\_class_private_field_set.js133353239884574534 0
 95D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\.bin\nanoid133353222347094454 0
@@ -5743,7 +5749,7 @@
 104D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\workers\test133353239874647132 1
 149D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-svgo\node_modules\domutils\lib\helpers.d.ts.map133353239862534449 0
 121D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\workers\test\cpuCount.test.js133353239863374471 0
-116D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\workers\test\integration133353239861436265 1
+116D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\workers\test\integration133353239861546285 1
 160D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\UnicodeRange.js133353239884724524 0
 118D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\workers\test\workerfarm.js133353239874807147 0
 158D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\common\SyntaxError.js133353239884364525 0
@@ -5793,7 +5799,7 @@
 105D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\hash\index.js133353239855383359 0
 102D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\utils\test133353239879377133 1
 121D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\utils\test\collection.test.js133353239862942219 0
-108D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\utils\test\input133353239852614550 1
+108D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\utils\test\input133353239876717138 1
 121D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\utils\test\objectHash.test.js133353239877607125 0
 123D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\utils\test\prettifyTime.test.js133353239878027127 0
 134D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\utils\test\replaceBundleReferences.test.js133353239878697129 0
@@ -6075,7 +6081,7 @@
 127D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\fs-search\fs-search.darwin-x64.node133353239863844470 0
 111D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\package-manager\src133353239872697141 1
 127D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\package-manager\test\fixtures\empty133353239873317118 1
-130D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\package-manager\test\fixtures\packages133353239864657217 1
+130D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\package-manager\test\fixtures\packages133353239865714736 1
 138D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\package-manager\test\fixtures\packages\foo-2.0133353239874897126 1
 136D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\package-manager\test\fixtures\packages\peers133353239875197135 1
 140D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0133353239875047132 1
@@ -6163,6 +6169,7 @@
 133D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo133353239880057129 1
 136D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo.js133353239879447130 0
 116D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\.cache\88\33e6e8c639f8505bb19ba26310a910.json133353215657246463 0
+101D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\dist\EXERCICIO.59712999.js.map133353250364223742 0
 136D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\xast.js133353239879687147 0
 140D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\coa.js133353239864017996 0
 143D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\config.js133353239864864736 0
@@ -6368,7 +6375,7 @@
 141D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-image\parcel-image.linux-arm64-gnu.node133353239878777132 0
 142D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-image\parcel-image.linux-arm64-musl.node133353239879747129 0
 139D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-image\parcel-image.linux-x64-gnu.node133353239883414521 0
-123D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-htmlnano\node_modules133353239841964532 1
+123D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-htmlnano\node_modules133353239891434558 1
 114D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-htmlnano\src133353239857133364 1
 135D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-htmlnano\src\HTMLNanoOptimizer.js133353239854833361 0
 129D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\optimizer-htmlnano\src\svgMappings.js133353239857470195 0
@@ -6724,7 +6731,7 @@
 134D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\core\test\fixtures\config-plugin-not-found133353239859853298 1
 118D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\core\test\fixtures\context133353239887234534 1
 135D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\core\test\fixtures\custom-format-infer-type133353239887264528 1
-120D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\core\test\fixtures\glob-like133353239865406855 1
+120D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\core\test\fixtures\glob-like133353239865594736 1
 127D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\core\test\fixtures\invalid-distpath133353239887344564 1
 133D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\core\test\fixtures\invalid-source-missing133353239887364535 1
 140D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\@parcel\core\test\fixtures\invalid-target-source-missing133353239887404534 1
@@ -6913,7 +6920,13 @@
 97D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\.bin\svgo.cmd133353222347094454 0
 97D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\node_modules\.bin\svgo.ps1133353222347094454 0
 97D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\dist\countdown.454f30a3.js133353207884754411 0
-86D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\dist\index.html133353215657256448 0
+97D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\dist\EXERCICIO.59712999.js133353250364153748 0
+80D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\.cache\8d133353195147062249 1
+93D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\dist\index.3506b79c.js133353248094320760 0
+98D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\dist\index.4d663569.css.map133353250364223742 0
+93D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\dist\index.ee810c89.js133353250457893698 0
+97D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\dist\index.ee810c89.js.map133353250457943691 0
+86D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\dist\index.html133353250457893698 0
 88D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\dist\index.js.map133353208952301383 0
 80D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\.cache\00133353195144572242 1
 80D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\.cache\01133353195144572242 1
@@ -6985,7 +6998,6 @@
 80D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\.cache\88133353195148482230 1
 80D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\.cache\89133353195147032256 1
 80D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\.cache\8c133353195147052250 1
-80D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\.cache\8d133353195147062249 1
 80D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\.cache\8f133353195147072253 1
 80D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\.cache\90133353195147082255 1
 80D:\Documentos\EBAC\CURSO FULL STACK\MODULO 22 - Landing Page\EXERCICIO\.cache\91133353195147092257 1
